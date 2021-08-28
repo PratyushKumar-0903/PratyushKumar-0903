@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PratyushKumar-0903
+- 👋 Hi, I’m @PratyushKumar
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Github
